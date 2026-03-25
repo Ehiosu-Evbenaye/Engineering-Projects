@@ -1,18 +1,4 @@
-# Engineering Projects Portfolio
-
-**Ehiosu Evbenaye**
-
-## Core Technical Areas
-
-* **Finite Element Analysis (FEA)** — stress, deformation, mesh convergence
-* **Computational Fluid Dynamics (CFD)** — boundary layer behaviour, flow modelling
-* **Control Systems** — dynamic response, PID tuning, stability analysis
-* **Thermal Systems** — heat exchanger modelling and performance analysis
-* **Computational Engineering** — MATLAB and Python-based modelling
-
----
-
-## Projects
+# Engineering Projects
 
 ### 1. Finite Element Analysis of a Cantilever Beam (ANSYS Workbench)
 
