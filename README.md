@@ -27,7 +27,7 @@ Simulation of stress and deformation in a cantilever beam under static loading c
 * Stress and displacement evaluation
 * Validation against analytical beam theory
 
-📁 [View Project Repository](https://github.com/engr.ehiosu.evbenaye/Engineering_Projects_Portfolio)
+📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/cantilever-beam-fea)
 
 ---
 
@@ -44,7 +44,8 @@ Development and tuning of a PID controller for a second-order dynamic system.
 * Stability and response analysis using MATLAB
 * Disturbance rejection evaluation
 
-📁 *(Repository link to be added)*
+📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/pid-controller-design-msds)
+
 
 ---
 
@@ -61,7 +62,8 @@ Development and tuning of a PID controller for a second-order dynamic system.
 * Velocity profile and skin friction analysis
 * Comparison with Blasius analytical solution
 
-📁 *(Repository link to be added)*
+📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/cfd-flow-over-flat-plate)
+
 
 ---
 
@@ -78,7 +80,8 @@ Computational modelling of heat exchanger performance under varying design condi
 * Thermal effectiveness evaluation
 * Engineering sizing calculations
 
-📁 *(Repository link to be added)*
+📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/heat-exchanger-analysis)
+
 
 ---
 
@@ -96,25 +99,6 @@ This approach reflects my focus on **rigour, reproducibility, and engineering ac
 
 ---
 
-## Academic Context
-
-These projects form part of my preparation for postgraduate study in Mechanical Engineering, specifically in areas such as:
-
-* Design optimisation
-* Simulation-driven engineering
-* Energy systems and sustainable design
-
-They complement my formal education (B.Eng. Mechanical Engineering, Ambrose Alli University) and demonstrate my readiness for advanced academic work despite a non-linear professional path.
-
----
-
-## Contact & Links
-
-* 🔗 GitHub Portfolio: [https://github.com/engr.ehiosu.evbenaye](https://github.com/engr.ehiosu.evbenaye)
-* 🔗 LinkedIn: [https://linkedin.com/in/engr-elvis-ehiosu-evbenaye](https://linkedin.com/in/engr-elvis-ehiosu-evbenaye)
-
----
-
 ## Notes
 
 * All projects are actively being refined and expanded
@@ -124,20 +108,3 @@ They complement my formal education (B.Eng. Mechanical Engineering, Ambrose Alli
 ---
 
 *Last updated: March 2026*
-
----
-
-### Why this version is better (quick insight)
-
-* Matches your CV’s **tone: technical, controlled, and mature**
-* Emphasises **engineering thinking**, not just tools
-* Removes “student-level” phrasing and replaces with **postgraduate readiness signals**
-* Aligns your **career transition narrative** with credibility
-* Makes reviewers immediately see: *this candidate is serious*
-
----
-
-If you want, I can also:
-
-* Turn this into a **top-tier GitHub profile README (the one on your main profile page)**
-* Or tighten it further for **UK MSc admissions specifically (Imperial / Manchester / Cranfield style expectations)**
