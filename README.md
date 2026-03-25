@@ -2,7 +2,7 @@
 
 ### 1. Finite Element Analysis of a Cantilever Beam (ANSYS Workbench)
 
-*Finite Element Analysis | 2026 (Ongoing)*
+*Finite Element Analysis*
 
 Simulation of stress and deformation in a cantilever beam under static loading conditions using ANSYS Workbench.
 
@@ -19,7 +19,7 @@ Simulation of stress and deformation in a cantilever beam under static loading c
 
 ### 2. PID Controller Design for Mass-Spring-Damper System (MATLAB & Simulink)
 
-*Control Systems | 2026 (Ongoing)*
+*Control Systems | 2026*
 
 Development and tuning of a PID controller for a second-order dynamic system.
 
