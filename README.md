@@ -1,7 +1,6 @@
 # Engineering Projects Portfolio
 
-**Ehiosu Elvis Evbenaye**
-Mechanical Engineering MSc Applicant
+**Ehiosu Evbenaye**
 
 ## Overview
 
