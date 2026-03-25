@@ -2,21 +2,6 @@
 
 **Ehiosu Evbenaye**
 
-## Overview
-
-This repository serves as a curated portfolio of my independent engineering projects, developed as part of a structured, self-directed transition back into Mechanical Engineering.
-
-With a background in Mechanical Engineering and a decade of professional experience spanning technology, operations, and quantitative modelling, these projects reflect my deliberate effort to rebuild and extend my technical foundation in:
-
-* Engineering simulation
-* Computational analysis
-* Systems modelling
-* Design optimisation
-
-Each project emphasises **methodical problem-solving, validation against theory, and engineering best practices**, aligning with the expectations of postgraduate-level work.
-
----
-
 ## Core Technical Areas
 
 * **Finite Element Analysis (FEA)** — stress, deformation, mesh convergence
