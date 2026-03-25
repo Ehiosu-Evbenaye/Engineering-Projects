@@ -1,95 +1,92 @@
 # Engineering Projects
 
-### 1. Finite Element Analysis of a Cantilever Beam (ANSYS Workbench)
+### 1. Parametric Optimisation of a Steel Cantilever Beam Using ANSYS Workbench
 
-*Finite Element Analysis*
+*Finite Element Analysis & Design Optimisation | Completed 2026*
 
-Simulation of stress and deformation in a cantilever beam under static loading conditions using ANSYS Workbench.
+Static structural analysis and parametric optimisation of an S355 steel cantilever beam. Achieved 18% mass reduction through taper optimisation while maintaining a safety factor of 2.0.
 
 **Key Features:**
 
-* Realistic boundary condition implementation
-* Mesh refinement and convergence study
-* Stress and displacement evaluation
-* Validation against analytical beam theory
+- Mesh convergence study (<2% stress variation)
+- Validation against Euler–Bernoulli beam theory (<3% deflection error)
+- Parametric taper study for mass minimisation
+- Critical assessment of modelling assumptions (idealised supports vs. fillet radii)
 
-📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/cantilever-beam-fea)
+📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/parametric-optimisation-cantilever-beam-ansys)
 
 ---
 
-### 2. PID Controller Design for Mass-Spring-Damper System (MATLAB & Simulink)
+### 2. Robust PID Control and Plant Uncertainty Analysis for a Mass‑Spring‑Damper System
 
-*Control Systems | 2026*
+*Control Systems | Completed 2026*
 
-Development and tuning of a PID controller for a second-order dynamic system.
+Design and robustness analysis of a PID controller for a second‑order dynamic system, evaluating performance under parameter uncertainty.
 
 **Key Features:**
 
-* Simulink-based system modelling
-* Controller tuning for performance criteria (overshoot, settling time, steady-state error)
-* Stability and response analysis using MATLAB
-* Disturbance rejection evaluation
+- Simulink modelling and PID tuning to meet transient specifications
+- Robustness analysis with ±20% variation in mass, stiffness, and damping
+- Comparison with lead‑lag compensator
+- Stability margins and disturbance rejection quantification
 
-📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/pid-controller-design-msds)
-
+📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/robust-pid-mass-spring-damper)
 
 ---
 
-### 3. Computational Fluid Dynamics: Flow Over a Flat Plate (STAR-CCM+)
+### 3. CFD Analysis of a NACA 0012 Airfoil: Validation Against Experimental Data
 
-*Computational Fluid Dynamics | 2026 (Ongoing)*
+*Computational Fluid Dynamics | Completed 2026*
 
-2D laminar flow simulation to analyse boundary layer development over a flat plate.
+Steady‑state RANS simulation of a NACA 0012 airfoil in STAR‑CCM+, validated against NASA Langley experimental data.
 
 **Key Features:**
 
-* Mesh generation and domain setup
-* RANS-based steady-state simulation
-* Velocity profile and skin friction analysis
-* Comparison with Blasius analytical solution
+- Structured boundary layer mesh (y+ < 1) with SST k‑ω turbulence model
+- Lift and drag coefficients from 0° to 12° angle of attack
+- Validation: <5% deviation for lift, <8% for drag against experimental data
+- Mesh independence study and uncertainty quantification
 
-📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/cfd-flow-over-flat-plate)
-
+📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/naca0012-cfd-validation)
 
 ---
 
-### 4. Heat Exchanger Analysis Using LMTD and ε-NTU Methods (MATLAB)
+### 4. Cost‑Based Optimisation of Heat Exchanger Configuration Using ε‑NTU and LMTD Methods
 
-*Thermal Systems | 2026 (Ongoing)*
+*Thermal Systems | Completed 2026*
 
-Computational modelling of heat exchanger performance under varying design conditions.
+MATLAB optimisation framework for selecting the most cost‑effective heat exchanger configuration (shell‑and‑tube vs. plate‑frame) under thermal and economic constraints.
 
 **Key Features:**
 
-* Implementation of LMTD and ε-NTU methods
-* Parametric analysis of flow configurations
-* Thermal effectiveness evaluation
-* Engineering sizing calculations
+- Implementation of LMTD and ε‑NTU methods
+- Pareto frontier analysis trading off thermal effectiveness, pressure drop, and capital cost
+- Parametric studies on flow arrangement and fouling factors
+- Design‑oriented decision framework beyond simple performance analysis
 
-📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/heat-exchanger-analysis)
-
+📁 [View Project Repository](https://github.com/Ehiosu-Evbenaye/heat-exchanger-optimisation-matlab)
 
 ---
 
 ## Engineering Approach
 
-Across all projects, I adopt a consistent engineering workflow:
+Across all projects, I follow a consistent engineering workflow:
 
-1. Problem definition grounded in physical principles
-2. Mathematical modelling of the system
-3. Computational implementation (ANSYS, MATLAB, STAR-CCM+)
-4. Verification through mesh studies or sensitivity analysis
-5. Validation against analytical or theoretical results
+1. **Problem definition** grounded in physical principles
+2. **Mathematical modelling** of the system
+3. **Computational implementation** (ANSYS, STAR‑CCM+, MATLAB/Simulink)
+4. **Verification** through mesh studies, sensitivity analysis, or uncertainty quantification
+5. **Validation** against analytical solutions or experimental data
+6. **Extension** to parametric optimisation, robustness analysis, or design‑oriented frameworks
 
-This approach reflects my focus on **rigour, reproducibility, and engineering accuracy**.
+This approach reflects my focus on **rigour, reproducibility, and engineering accuracy**—essential qualities for advanced research and industry practice.
 
 ---
 
 ## Notes
 
-* All projects are actively being refined and expanded
-* Additional simulations and optimisation-focused work will be added
-* Full technical reports and documentation are included within individual repositories
+- All projects are complete and documented with full technical reports, simulation files, and scripts within each repository.
+- The portfolio demonstrates readiness for graduate‑level study in mechanical engineering, particularly in design optimisation, simulation, and energy systems.
 
 ---
 
