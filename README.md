@@ -13,13 +13,13 @@ Status: Baseline model validated against Euler–Bernoulli beam theory; taper op
 
 ---
 
-### 2. Robust PID Control and Plant Uncertainty Analysis for a Mass‑Spring‑Damper System
+### 2. Robust PID Control and Plant Uncertainty Analysis for a Mass-Spring-Damper System
+*Control Systems | In Progress*
 
-*Control Systems | In progress*
+Rigorous analytical design and sensitivity analysis of a PID controller for a second-order dynamic system. This project prioritizes a "first-principles" approach, evaluating performance and stability under ±20% parameter uncertainty using symbolic derivations and manual tuning.
 
-Design and robustness analysis of a PID controller for a second‑order dynamic system, evaluating performance under parameter uncertainty.
+Status: Theoretical foundations, PID tuning via pole placement, and stability margin calculations are complete. Analytical sensitivity functions have been derived to assess robustness. Next Phase: Transitioning to MATLAB/Simulink to validate these manual results against simulated transients once the software environment is live.
 
-Status: Baseline Simulink model and PID tuning completed to meet transient specifications. Robustness analysis with ±20% variation in mass, stiffness, and damping is underway. Final comparison with lead‑lag compensator and stability margin calculations will be added upon completion.
 
 
 [View Project Repository](https://github.com/Ehiosu-Evbenaye/robust-pid-mass-spring-damper)
