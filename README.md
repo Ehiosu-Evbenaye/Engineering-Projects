@@ -27,13 +27,12 @@ Status: Theoretical foundations, PID tuning via pole placement, and stability ma
 ---
 
 ### 3. CFD Analysis of a NACA 0012 Airfoil: Validation Against Experimental Data
-
 *Computational Fluid Dynamics | In progress (started 2026)*
 
-Computational Fluid Dynamics | In progress (started 2026)
-Steady‑state RANS simulation of a NACA 0012 airfoil in STAR‑CCM+, with validation against NASA Langley experimental data.
+Steady-state RANS simulation of a NACA 0012 airfoil in STAR-CCM+, with validation against NASA Langley experimental data.
 
-Status: Structured boundary layer mesh (y⁺ < 1) and SST k‑ω turbulence model established. Preliminary results for lift and drag coefficients show good agreement with experimental data across the linear regime; mesh independence study and full uncertainty quantification are ongoing. Final validation plots and technical report will be added upon completion.
+Status: The CFD calculations have been completed. A structured boundary layer mesh (y+ < 1) and SST k-ω turbulence model were used. Lift and drag coefficients show good agreement with experimental data across the linear regime. Mesh independence study and full uncertainty quantification have also been completed.
+Post-processing, final validation plots, and the technical report will be done in STAR-CCM+ and added to the repository upon completion.
 
 
 [View Project Repository](https://github.com/Ehiosu-Evbenaye/naca0012-cfd-validation)
