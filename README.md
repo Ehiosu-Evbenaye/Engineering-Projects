@@ -45,7 +45,7 @@ Post-processing, final validation plots, and the technical report will be done i
 
 MATLAB optimisation framework for selecting the most cost‑effective heat exchanger configuration (shell‑and‑tube vs. plate‑frame) under thermal and economic constraints.
 
-Status: LMTD and ε‑NTU methods implemented and verified against standard textbook examples. Integration with cost models is in progress; Pareto frontier analysis and parametric studies on fouling factors will follow. Full framework and design‑oriented decision tools will be documented upon completion.
+Status: Theoretical models (ε‑NTU and LMTD) and cost equations have been derived and verified against textbook examples manually (with spreadsheets). Implementation of the full optimisation framework in MATLAB is planned for the next phase. Cost‑model integration, Pareto analysis, and parametric studies will follow after the MATLAB code is completed.
 
 
 [View Project Repository](https://github.com/Ehiosu-Evbenaye/heat-exchanger-optimisation-matlab)
